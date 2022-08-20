@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "Christy",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
